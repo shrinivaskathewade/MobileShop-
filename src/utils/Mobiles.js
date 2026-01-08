@@ -1,0 +1,123 @@
+export const Mobiles = [
+    {
+        id: 1,
+        Name : "Iphone 16",
+        title : "Apple",
+        Publish : "Kalpana",
+         System : "IOS",
+        cover : "/Apple.jpg",
+        discription : "Made in America",
+        price : "70000 Rs",
+        Rating : 4.8/5,
+        review : "value for money Phone"
+    },
+      {
+        id: 2,
+        Name : "Vivo x300 pro",
+        title : "Vivo",
+        Publish : "Manik",
+        System : "Android",
+        cover : "/Vivo.jpg",
+        discription : "Made in China",
+        price : "40000 Rs",
+        Rating : 4.6/5,
+        review : "value for money Phone"
+    },
+      {
+        id: 3,
+        Name : "OPPO find X",
+        title : "Oppo",
+        Publish : "Akshay",
+       System : "Android",
+        cover : "/Oppo.jpg",
+        discription : "Made in China",
+        price : "30000 Rs",
+        Rating : 4.4/5,
+        review : "value for money Phone"
+    },
+      {
+        id: 4,
+        Name : "One Plus note 10 pro",
+        title : "Oneplus",
+        Publish : "Prajwal",
+       System : "Android",
+        cover : "/Oneplus.jpg",
+        discription : "Made in Japan",
+        price : "45000 Rs",
+        Rating : 4.5/5,
+        review : "value for money Phone"
+    },
+      {
+        id: 5,
+        Name : "Samsung note 24 ultra",
+        title : "Samsung",
+        Publish : "Shri",
+       System : "Android",
+        cover : "/Samsung.jpg",
+        discription : "Made in Korea",
+        price : "20000 Rs",
+        Rating : 4.8/5,
+        review : "value for money Phone"
+    },
+      {
+        id: 6,
+        Name : "Micromax canvas 1",
+        title : "Micromax",
+        Publish : "tatya",
+        System : "Android",
+        cover : "/Micromax.jpg",
+        discription : "Made in India",
+        price : "7000 Rs",
+        Rating : 3.2/5,
+        review : "value for money Phone"
+    },
+      {
+        id: 7,
+        Name : "Moto g86 5G",
+        title : "Moto",
+        Publish : "Yogesh",
+        System : "Android",
+        cover : "/Moto.jpg",
+        discription : "Made in India",
+        price : "23000 Rs",
+        Rating : 4.5/5,
+        review : "value for money Phone"
+    },
+      {
+        id: 8,
+        title : "Huwai",
+        Name : "Honor p10 Ultra",
+        Publish : "Patil",
+        System : "Android",
+        cover : "/Huwai.jpg",
+        discription : "Made in America",
+        price : "70000 Rs",
+        Rating : 4.5/5,
+        review : "value for money Phone"
+    },
+      {
+        id: 9,
+        Name : "Honor 12 pro",
+        title : "Honor",
+        Publish : "Shiwansh",
+        System : "Android",
+        cover : "/Honor.jpg",
+        discription : "Made in Australia",
+        price : "60000 Rs",
+        Rating : 4.5/5,
+        review : "value for money Phone"
+    },
+      {
+        id: 10,
+        Name : "Redmi Note 12 pro",
+        title : "Redmi",
+        Publish : "Satyam",
+        System : "Android",
+        cover : "/Redmi.jpg",
+        discription : "Made in England",
+        price : "20000 Rs",
+        Rating : 4.5/5,
+        review : "value for money Phone"
+    },
+    
+]
